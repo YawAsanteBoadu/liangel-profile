@@ -1,0 +1,12 @@
+{
+  "name": "liangel-qr-landing",
+  "version": "1.0.0",
+  "description": "Mobile-first QR-code social landing page for Liangel Beauty Studio.",
+  "private": true,
+  "scripts": {
+    "qr": "node generate-qr.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
