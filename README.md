@@ -79,7 +79,7 @@ deployed URL from step 2, regenerate them:
 
 ```bash
 npm install                # first time only — installs the qrcode package
-node generate-qr.js "https://your-live-url"
+node generate-qr.js "https://liangelbeautystudio.netlify.app/"
 ```
 
 This overwrites **`qr-code.png`** (print/social) and **`qr-code.svg`** (vector).
